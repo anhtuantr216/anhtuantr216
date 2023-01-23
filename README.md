@@ -1,4 +1,3 @@
-![MasterHead](https://raw.githubusercontent.com/ahmadhassan7/ahmadhassan7/master/resources/banner.png)
 <h1 align="center">Hi 👋, I'm Trinh Tuan Anh</h1>
 <h3 align="center">I am on a "Nerdy Project" to become a data scientist</h3>
 
