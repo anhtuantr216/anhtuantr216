@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trinh Tuan Anh</h1>
 <h3 align="center">I am on a "Nerdy Project" to become a data scientist</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.google.com.vn/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3sU3NJwuL-8UpYSLV7KNns&ust=1674553220984000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOiZ9IGz3fwCFQAAAAAdAAAAABAE)">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 - 🌱 I’m currently learning **MicroMasters® Program in Statistics and Data Science**
 
